@@ -1,0 +1,3 @@
+at-coder/**/*
+!at-coder/**/*.cpp
+!at-coder/**/*.sh
